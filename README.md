@@ -15,3 +15,4 @@
 
 # Harjoitus 4
 - Tepon lis‰‰m‰ rivi
+- Matin lis‰‰m‰ rivi
