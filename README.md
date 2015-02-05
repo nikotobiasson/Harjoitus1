@@ -7,3 +7,7 @@
 # Harjoitus 2
 
 5.2.2015	Lisätty rivi
+
+
+# Harjoitus 3
+- Matti lisäsi tämän
