@@ -11,3 +11,7 @@
 
 # Harjoitus 3
 - Matti lis‰si t‰m‰n
+
+
+# Harjoitus 4
+- Tepon lis‰‰m‰ rivi
